@@ -1,0 +1,3 @@
+[submodule "AntifakePrompt"]
+	path = AntifakePrompt
+	url = git@github.com:RaffeLegend/AntifakePrompt.git
