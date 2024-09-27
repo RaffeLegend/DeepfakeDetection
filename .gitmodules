@@ -4,3 +4,6 @@
 [submodule "AIDE"]
 	path = AIDE
 	url = git@github.com:RaffeLegend/AIDE.git
+[submodule "DIRE"]
+	path = DIRE
+	url = https://github.com/RaffeLegend/DIRE.git
