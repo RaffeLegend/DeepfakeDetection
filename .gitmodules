@@ -7,3 +7,9 @@
 [submodule "DIRE"]
 	path = DIRE
 	url = https://github.com/RaffeLegend/DIRE.git
+[submodule "aeroblade"]
+	path = aeroblade
+	url = https://github.com/RaffeLegend/aeroblade.git
+[submodule "AIGCDetectBenchmark"]
+	path = AIGCDetectBenchmark
+	url = https://github.com/RaffeLegend/AIGCDetectBenchmark.git
